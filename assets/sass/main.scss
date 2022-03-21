@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+body{
+    height: 100vh;
+
+}
+html{
+    font-size: 62.5%;
+}
+.text{
+    font-size: 1.5rem;
+    &texxt{
+        font-size: 1.2rem;
+    }
+}
+$text-color:#757575;
+$bg-color:#858585;
+
